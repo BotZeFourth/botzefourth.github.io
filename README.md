@@ -1,5 +1,5 @@
 # BotZeFourth
-- Site: https://chriszethird.github.io
+- Site: https://botzefourth.github.io
 - Usage: Information about BotZeFourth
 
 ## Frameworks
